@@ -67,9 +67,5 @@ The AI-Powered Personalized Learning System is an interactive web application bu
 
 - Making feedback intuitive and motivational for students.
 
-## Project Demo
-- <a href="https://github.com/MihirKumar1304/Student-Registration-System-Using-Python--GUI-Tkinter-Project/blob/main/student%20registration%20system!.mp4">Watch the Demo Video Here</a>
-
 ## Conclusion
-This project provided practical experience in GUI development, Excel data handling, and user-friendly system design. It optimized student enrollment by automating record creation, enhancing data retrieval, and improving overall usability. The integration of profile images, search functions, and editable records adds flexibility to the system.
-Future improvements may include shifting to a relational database (MySQL, SQLite), adding cloud storage, enabling multi-user access, and developing a web-based or mobile-compatible version to further enhance accessibility and scalability.
+The AI-Powered Personalized Learning System revolutionizes education by integrating AI-driven quiz generation, adaptive feedback, and real-time tutoring into a seamless, user-friendly platform. By leveraging Google Gemini AI and Streamlit, the system provides an interactive learning experience tailored to individual student needs.

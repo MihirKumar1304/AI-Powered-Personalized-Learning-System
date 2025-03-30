@@ -30,26 +30,39 @@ The AI-Powered Personalized Learning System is an interactive web application bu
 
 ## Project Insights
 - Personalized Learning Experience
+  
 ✔️ Adjusts quiz difficulty based on student performance.
+
 ✔️ Encourages gradual improvement through adaptive learning.
 
 - AI-Driven Content Generation
+  
 ✔️ Uses Google Gemini AI to generate quizzes, explanations, and feedback.
+
 ✔️ Eliminates the need for manual content creation.
 
 - Immediate Feedback & Analytics
+  
 ✔️ Provides instant scoring and answer explanations.
+
 ✔️ Generates AI-based feedback covering strengths, weaknesses, and study tips.
 
 - Seamless User Interaction
+  
 ✔️ Built with Streamlit for a simple, interactive UI.
+
 ✔️ Allows easy quiz generation, submission, and tutor interaction.
 
 - Dynamic and Scalable
+  
 ✔️ Supports quizzes on any topic provided by the user.
+
 ✔️ Future scope: Multi-language support, student progress tracking, and LMS integration.
 
 - Challenges Tackled
+  
 ✔️ AI response validation to ensure JSON format correctness.
+
 ✔️ Ensuring AI-generated quizzes are conceptual and not repetitive.
+
 ✔️ Making feedback intuitive and motivational for students.

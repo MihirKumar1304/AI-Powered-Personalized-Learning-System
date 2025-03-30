@@ -17,3 +17,9 @@ The AI-Powered Personalized Learning System is an interactive web application bu
 - Security: Uses API key management for Gemini AI integration
 
 ## Application Interface
+![Image](https://github.com/user-attachments/assets/a18d72de-65ad-40ae-ad13-96b2b5e97f82)
+![Image](https://github.com/user-attachments/assets/38dc22b0-e8d6-47a8-a614-0c1702556f2f)
+![Image](https://github.com/user-attachments/assets/01853af4-93dd-447a-91f3-7d8d4de38855)
+![Image](https://github.com/user-attachments/assets/214dba88-4b58-49c1-a425-3a3b878c9146)
+![Image](https://github.com/user-attachments/assets/4db9b5af-691e-4f4b-88ae-837a551caa08)
+![Image](https://github.com/user-attachments/assets/9aaa697f-3b94-4e64-9ccb-286ffc087787)

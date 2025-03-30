@@ -29,40 +29,40 @@ The AI-Powered Personalized Learning System is an interactive web application bu
 ![Image](https://github.com/user-attachments/assets/9aaa697f-3b94-4e64-9ccb-286ffc087787)
 
 ## Project Insights
-- Personalized Learning Experience
+✔️ Personalized Learning Experience
   
-✔️ Adjusts quiz difficulty based on student performance.
+- Adjusts quiz difficulty based on student performance.
 
-✔️ Encourages gradual improvement through adaptive learning.
+- Encourages gradual improvement through adaptive learning.
 
-- AI-Driven Content Generation
+✔️ AI-Driven Content Generation
   
-✔️ Uses Google Gemini AI to generate quizzes, explanations, and feedback.
+- Uses Google Gemini AI to generate quizzes, explanations, and feedback.
 
-✔️ Eliminates the need for manual content creation.
+- Eliminates the need for manual content creation.
 
-- Immediate Feedback & Analytics
+✔️ Immediate Feedback & Analytics
   
-✔️ Provides instant scoring and answer explanations.
+- Provides instant scoring and answer explanations.
 
-✔️ Generates AI-based feedback covering strengths, weaknesses, and study tips.
+- Generates AI-based feedback covering strengths, weaknesses, and study tips.
 
-- Seamless User Interaction
+✔️ Seamless User Interaction
   
-✔️ Built with Streamlit for a simple, interactive UI.
+- Built with Streamlit for a simple, interactive UI.
 
-✔️ Allows easy quiz generation, submission, and tutor interaction.
+- Allows easy quiz generation, submission, and tutor interaction.
 
-- Dynamic and Scalable
+✔️ Dynamic and Scalable
   
-✔️ Supports quizzes on any topic provided by the user.
+- Supports quizzes on any topic provided by the user.
 
-✔️ Future scope: Multi-language support, student progress tracking, and LMS integration.
+- Future scope: Multi-language support, student progress tracking, and LMS integration.
 
-- Challenges Tackled
+✔️ Challenges Tackled
   
-✔️ AI response validation to ensure JSON format correctness.
+- AI response validation to ensure JSON format correctness.
 
-✔️ Ensuring AI-generated quizzes are conceptual and not repetitive.
+- Ensuring AI-generated quizzes are conceptual and not repetitive.
 
-✔️ Making feedback intuitive and motivational for students.
+- Making feedback intuitive and motivational for students.

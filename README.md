@@ -5,9 +5,13 @@ The AI-Powered Personalized Learning System is an interactive web application bu
 
 ## Key Features
 🔹 AI-Generated Quizzes – Automatically creates multiple-choice quizzes on any topic with adjustable difficulty.
+
 🔹 Performance-Based Feedback – Provides detailed insights into strengths, weaknesses, and study recommendations.
+
 🔹 AI Tutor – Answers student queries in real time, acting as a virtual tutor.
+
 🔹 Adaptive Learning – Adjusts quiz difficulty based on student scores.
+
 🔹 User-Friendly Interface – Built using Streamlit for an interactive and accessible experience.
 
 ## Technology Stack
